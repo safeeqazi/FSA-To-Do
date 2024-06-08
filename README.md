@@ -40,9 +40,9 @@ Technologies:
 Timeline:
 ● Start Date[June, 6, 2024]
 ● End Date[June 20, 2024]
-Evaluation Criteria:
------------------------------------------
 
+-----------------------------------------
+Evaluation Criteria:
 ● 20 point scale.
 ● User Interface + Experience : 5 points
 ● Clean + intuitive design: 5 points
